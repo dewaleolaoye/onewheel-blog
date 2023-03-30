@@ -1,5 +1,3 @@
-import { json } from "@remix-run/node";
-
 export default async function getPosts() {
   const posts = [
     {
